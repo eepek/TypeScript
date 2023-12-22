@@ -1,0 +1,4 @@
+{
+  "eslint.workingDirectories": ["flight-diary", "fligthdiary-front"],
+  "git.ignoreLimitWarning": true
+}
